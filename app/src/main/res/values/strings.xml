@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ResourcesStyles</string>
+    <string name="app_name">Resources and styles</string>
+    <string name="title">Title</string>
 </resources>
